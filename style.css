@@ -1,0 +1,274 @@
+@import url('https://fonts.googleapis.com/css?family=Quicksand:400,500,700');
+
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Quicksand';
+  background-color: #C9DAF9;
+}
+
+.topHeaderRow ul li {
+    display: inline;
+    margin: 1.5rem;
+    list-style: none;
+}
+
+.topHeaderRow ul li a {
+    color: white;
+}
+
+.topHeaderRow ul {
+    text-align: right;
+    height: auto;
+    width: 100%;
+}
+
+.topHeaderRow {
+    background-color: navy;
+}
+
+.navbar {
+    background-color: darkblue;
+}
+
+.navbar a {
+    color: white;
+}
+
+.navbar-brand {
+    font-family: 'Lobster';
+    font-size: 200%;
+}
+
+.navbar ul {
+    padding-right: 45%;
+}
+
+.navbar ul li {
+    margin: .5rem;
+}
+
+.navbar ul li a {
+    list-style: none;
+    text-align: left;
+}
+
+.navbar ul li button {
+    border: none;
+    background: none;
+    color: white;
+}
+
+.dropdown {
+    position: relative;
+    display: inline-block;
+    list-style: none;
+    border: none;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+    list-style: none;
+}
+
+.continents .titulo {
+    color: white;
+    background-color: darkblue;
+    text-align: left;
+    width: 75%;
+    border: 0.1px solid black;
+    margin-top: 10%;
+}
+
+.continents ul {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    width: 75%;
+}
+
+.continents ul li {
+    width: 100%;
+    border: 0.1px solid black;
+}
+
+.popular .titulo {
+    color: white;
+    background-color: darkblue;
+    text-align: left;
+    width: 75%;
+    border: 0.1px solid black;
+    margin-top: 10%;
+}
+
+.popular ul {
+    position: relative;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    background-color: white;
+    width: 75%;
+}
+
+.popular ul li {
+    width: 100%;
+    border: 0.1px solid black;
+}
+
+.temple-image {
+    margin-top: 3%;
+}
+
+.temple-image p {
+    color: black;
+    width: 1000px;
+    height: 50%;
+    font-size: 132%;
+    font-weight: 200%;
+    margin-bottom: 5%;
+}
+
+h2 {
+    color: black;
+    font-size: 300%;
+}
+
+.temple-widget {
+    margin-top: 3%;
+}
+
+.temple-widget ul {
+    margin-top: 5%;
+    margin-left: -5%;
+    margin-bottom: 5%;
+    margin-right: 0%;
+}
+
+.temple-widget ul li {
+    font-size: 120%;
+}
+
+.botao {
+    margin-top: 5%;
+    width: 100%;
+}
+
+.btn-group button {
+    background-color: white;
+}
+
+.btn-group .heart {
+    width: 25%;
+}
+
+.btn-group .download {
+    width: 25%;
+}
+
+.btn-group .print {
+    width: 25%;
+}
+
+.btn-group .comment {
+    width: 25%;
+}
+
+.btn-group .heart i {
+    font-size: 100%;
+}
+
+.btn-group .download {
+    font-size: 100%;
+}
+
+.btn-group .print {
+    font-size: 100%;
+}
+
+.btn-group .comment {
+    font-size: 100%;
+}
+
+.tags h4 {
+    margin-top: 3%;
+}
+
+.tags .label-primary {
+    background-color: navy;
+    width: 200%;
+}
+
+.tags .card .lista{
+    margin: 3%;
+}
+
+.related-photos {
+    margin-top: 1%;
+    margin-left: 17%;
+}
+
+.related-photos1 {
+    background-color: transparent;
+    height: 300px;
+    width: auto;
+    margin-bottom: 10%;
+}
+
+.related-photos2 {
+    margin-top: 18%;
+    background-color: transparent;
+    margin-bottom: 10%;
+}
+
+.related-photos3 {
+    margin-top: 18%;
+    background-color: transparent;
+    margin-bottom: 10%;
+}
+
+.related-photos4 {
+    margin-top: 18%;
+    background-color: transparent;
+    margin-bottom: 10%;
+}
+
+footer {
+    background-color: darkblue;
+}
+
+h4 {
+    color: white;
+}
+
+h5 {
+    color: white;
+}
+
+footer p {
+    color: white;
+}
+
+.footer2 {
+    background-color: navy;
+}
+
+.recent-posts {
+    padding-left: 55%;
+    margin-top: -16%;
+}
+
+.contact-us {
+    padding-left: 80%;
+    margin-top: -53%;
+}
+
+.recent-post .calgary p {
+    padding-left: 200%;
+}
